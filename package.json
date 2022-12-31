@@ -8,11 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fpkit/react": "^0.2.28",
     "@mdx-js/react": "^2.2.1",
+    "@shawnsandy/first-paint": "^2.17.17",
     "next": "^13.1.1",
     "nextra": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sass": "^1.57.1"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "tilg": "^0.1.1",
+    "typescript": "4.9.4"
   }
 }

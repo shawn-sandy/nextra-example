@@ -7,7 +7,7 @@ import styles from './style.module.sass';
 
 # Hello
 
-<button className={styles.button}>SASS, CSS modules, JSX inside Markdown</button>
+<button type="button">SASS, CSS modules, JSX inside Markdown</button>
 
 I am going to the movies today.
 
