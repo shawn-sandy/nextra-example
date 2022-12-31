@@ -2,7 +2,7 @@ import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
 import { MDXProvider } from "@mdx-js/react";
-import { Footer } from "./components/footer.tsx";
+import { Footer } from "./src/components/footer.tsx";
 import useTilg from "tilg";
 
 // import styles from "./theme.module.sass";
